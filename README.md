@@ -1,3 +1,6 @@
+# Name and Section
+Althea Chua 3.1BSIT
+
 # dart-exercises-student-bmi
 Compute student BMI using Dart Programming Language
 
