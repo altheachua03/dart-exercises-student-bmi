@@ -1,0 +1,7 @@
+Student name: Phuwin
+Age: 23 years old
+Height: 1.8 meters
+Weight: 67 kilograms
+Is the student an adult? true
+The student BMI is: 20.68
+Is the BMI within the healthy range? true
